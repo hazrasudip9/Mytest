@@ -1,0 +1,4 @@
+This is a git repo for how we can use libvrt api for creating vm and terminate them.
+use gcc -g -Wall program.c -o program -lvirt  for compilation
+
+Enjoy.....
